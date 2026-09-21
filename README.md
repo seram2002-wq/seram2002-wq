@@ -1,17 +1,10 @@
-<h1 align="center">Hi 👋, I'm 박세람</h1> <h3 align="center">[한 줄 소개 — 예: AI 엔지니어를 꿈꾸는 백엔드 개발자입니다]</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub+profile!;Always+learning%2C+always+building." alt="Typing SVG" /> </p> <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://instagram.com/seram0e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seram0e" height="30" width="40" /></a> </p> <!-- [내용 수정 필요] LinkedIn, 이메일, 블로그 등 다른 연락 채널이 있다면 위와 같은 형식으로 추가하세요. 아이콘은 https://github.com/rahuldkjain/github-profile-readme-generator/tree/master/src/images/icons/Social 에서 더 찾을 수 있어요. -->
+<h1 align="center">Hi 👋, I'm 박세람</h1> <h3 align="center"></h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub+profile!;Always+learning%2C+always+building." alt="Typing SVG" /> </p> <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://instagram.com/seram0e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seram0e" height="30" width="40" /></a> </p> <!-- [내용 수정 필요] LinkedIn, 이메일, 블로그 등 다른 연락 채널이 있다면 위와 같은 형식으로 추가하세요. 아이콘은 https://github.com/rahuldkjain/github-profile-readme-generator/tree/master/src/images/icons/Social 에서 더 찾을 수 있어요. -->
 🧑‍💻 About Me
 🔭 현재 하고 있는 작업: HYUNDAI AI 부트캠프 참여 중
-🌱 요즘 배우고 있는 것: [예: LLM, RAG, Kubernetes 등]
-💬 이런 주제로 편하게 얘기해요: [예: AI/ML, 백엔드 아키텍처]
+
+🌱 요즘 배우고 있는 것: LLM, 데이터분석, ai 서비스 개발
+
 📫 연락처: seram2002@gmail.com
-⚡ 재미있는 사실: [예: 커피 없이는 코드를 안 씀]
+
 <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p> <!-- [내용 수정 필요] 실제로 쓰는 기술만 남기고 나머지는 지우세요. 더 많은 아이콘: https://devicon.dev -->
-📌 Pinned Projects
-<!-- 굳이 여기 적지 않아도 GitHub 프로필 화면에서 "Customize your pins"로 대표 저장소 4~6개를 고정하면 자동 표시됩니다. 대표작 위주로 pin 하는 걸 추천해요. -->
-📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=[내-깃허브아이디]&show_icons=true&theme=default" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=[내-깃허브아이디]&layout=compact&langs_count=6" /> </p> <!-- ⚠️ [내용 수정 필요] username=[내-깃허브아이디] 부분을 본인의 실제 GitHub 아이디로 바꿔야 카드가 나타납니다. 예전에 많이 쓰이던 github-readme-stats(anuraghazra) 프로젝트는 유지보수가 종료되어 후속 프로젝트인 github-stats-extended 로 교체했습니다. 카드가 안 뜨면 방문자가 몰려 일시적으로 느릴 수 있으니, 안정성이 중요하면 GitHub Actions로 SVG를 직접 생성해 저장소에 커밋하는 self-host 방식을 권장합니다. -->
-🏆 Featured / Certifications
-<!-- [내용 수정 필요] 자격증, 수상 경력, 블로그 글 등을 넣고 싶다면 여기에 -->
-[항목 1]
-[항목 2]
-<p align="center">💬 Feel free to reach out — always happy to connect!</p>
+
